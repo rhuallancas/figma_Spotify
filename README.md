@@ -1,5 +1,4 @@
 # Figma_Spotify
 
-
-
-![PORTADA DE SPOTIFY](iPhone 13 & 14 - 1.jpg)
+[img1]: IMAGENES-SPOTIFY/IPHONE001.jpg "Título alternativo"
+![Texto alternativo](img1)
